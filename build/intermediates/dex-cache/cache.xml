@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_ddcd2a746fe8c35ead38aa232251c8d652f67150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_6090bc06ab3ebc55da57e148927e2dd17df56e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_0b5fd395d742d70186f68dc98c3914352cc4626b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_23a41a84d86484a0ff9b3a784895dfdddda2323e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_ea5edfdefa49232ca963195ad74fc37202d31ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_06651da63647e08a54e39cedfac3a08a79796231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_02c6b7ec81263b626c3da0979782be5ec06a18ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_f6cfb739917304d5367d4409ff55042b6e0ed4ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0edde0a8e455b5bd2f22b4d3d366522eed71a56a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_32becd9ba0841e821087cdce3ff64127bd3ced83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_2fd40fd93fd287271e4b31fb8fc57f7885dc693f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_27543a607a376825f17009e64396d0b6e6029098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_f88cd9016c1dd32a81b84c0638ef2065c5e12d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_97bfc92e9061e6b34418baef3b1923d3f15a92c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_87243ff39f4e141aa197492fed85250689f4ba08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_dbbc3ec8874dd42db1a151ed6f1892f6b89eb1cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cb74ac0a4041d4fb15511aedfb8f31a28e837d09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_f215c0df0ffe2f12837663ac48c99f3dc9975208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_116677c42c3da245c2111f04fed7c95aa9b85cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_5a1ce173c15d2533531123a1848e3a415005d835/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_ac53dde5432bf98dc24d6ef790460e30a079e27f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_b0c256d9bc40fdaa3be1891a873dceb12a035a3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_4f60e73382ca71c27c716326ff839f0133d07df1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_c852a9b6af7997ecef36493f1018bc42f499d673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_e8af45c18f67569f6e18b66022c0543cafe9e9a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_2399f047a9e06a75484dfc53c55b56e99685cadb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_961cdfbb2195edaa230ea85d0ac67144bf7f2d59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_82d3abbc1e5a659ec96ad3447282989d282c40c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_d3fbf3c1e8ffd06ed2eb1519b10627ee74ff79cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_dd6ed489ab7d4d8095b0a17fdcf2626c3ee12b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_ccfb1dc6ada64742f3e78de3e2232a87b7f55e02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_38ed1233d2feebd7f985677bbc5810d2aac24073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_508540d850905db41575203029025f125375b08e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_1c27da2762bd16369a955ae6eaeeab3675a77de8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_f199900d89567e375322e267768216d7b5932fdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_8512b2a7563e554f72a1d96f613bfb495d91d1c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_84bd47b0938543d5cc10b0137ed573e902ad724f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_ec6bf4009b165fe68005618011e2d21e7c29e63a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_dcc53dfeb066fa3e608284b16131885039e5325b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_c6e5e9d24e547253aa7c4f13ffbf71238bc7aad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_dd618d70838c9a05837aa55d9081b63141d150b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_2c7de05a2f13c6d963d52e189386965ca327262b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_aa4d3cb792a5ca23a5fb63dccaefad64c0d13fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_697369a9cfa7d212df98841e18c5dfb2734c5e9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_27d9893ea312ebd841f78261d1b9f15e4cab97f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_103df18e9218dc66ede7e3657f8c88c14802028e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_0658bb490b3ce08d7ad0fa01dd76ac1752fd6341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_57afcb5bb87475fe734b6649a6552cc68c2f1340/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_b6543a67574f17c282613ffec2d689f7d06b01cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_28d9a9b194606feac2178a0352bdbcfaf057ee21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_7203890ea28b45fe1c409dd2739fadfeec83d8e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_2689fce32bef51144380c7f1cd9fdc7e436a4c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_5440a42445fde26618f57fcfd85aa18fe3fa1f7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_e7d4d758b26eeffbaa73fc9039dc24b39a6f211e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_13650f82262a9dd6d704af22ea505838de45b046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_bce8423e4a4563eb7c25c1c467a1cad65ccb00c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_c79d721b9447f66692421354dfd9fe1fd68423dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_9bbccb28fc108ae3056785441a32bc5425e8aa1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_50bc04059a86e6837f28651697d0b75ccc3d7c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_2661a10cd8540260b1f77507e8adb535581abbd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_ed599eaad0a8f5d9d16c46ad566eddb1156b9f0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_ac8bd92643b0d3504825297d5e94c4ac02651dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_adc1353c95f1ca27dd1f447a9d4fde03a873855a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_cc204003025e1d345af0c11e97228eb68d96b6de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="937396b7a34ab50cf97841b5560802ed482c900d">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07265c093f6b6375814f23da354ec18e6249f24e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fe7dd735f10eaa119d5639ec7b4d888b4d967987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_99ec09d99b5f06a2e3fa7c4b591011d00814a16f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_32e7e0ed4699bd4fa0bd76132bd47aa9708b2701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_6ac67ba75bf2ca2359033b8d72159997f59fb87e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23a70f194fd909df5168aaea87fc370904fe4b59">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_18b9ab78acf64d6965ce7324aa9cc3ba4ac394eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/marmm/AndroidStudioProjects/DemoWeekMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_d70b0780470a8c19532187c4c34305e360718c10/classes.dex" />
+    </item>
+
+</items>
